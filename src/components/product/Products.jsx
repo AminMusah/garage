@@ -5,7 +5,7 @@ import User2LineIcon from "remixicon-react/User2LineIcon";
 function Products() {
   return (
     <div>
-      <section className="section project" id="project">
+      <section className="section project" id="products">
         <h2 className="h2 section-title text-center">
           Our <span className="has-before">Products</span>
         </h2>

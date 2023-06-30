@@ -3,7 +3,7 @@ import BankLineIcon from "remixicon-react/BankLineIcon";
 function Pricing() {
   return (
     <div>
-      <section className="price-section about bg">
+      <section className="price-section about bg" id="pricing">
         <h2 className="h2 section-title text-center">
           Pricing <span className="has-before"></span>
         </h2>

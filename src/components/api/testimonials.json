@@ -1,0 +1,16 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Gladys Zanu",
+      "message": "I was very happy when i got discounts because i don't get that elsewhere.",
+      "image": "/assets/images/istockphoto-1299077558-612x612.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hajia Lad",
+      "message": "Working with Garage has brought about improvement to my business",
+      "image": "/assets/images/pexels-photo-5905897.jpeg"
+    }
+  ]
+}

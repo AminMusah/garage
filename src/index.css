@@ -2099,6 +2099,13 @@ input[type="submit"]:hover {
 
   .hero-banner {
     margin-inline-end: -140px;
+    margin-left: 40px;
+    margin-top: -5rem;
+  }
+
+  .hero-banner img {
+    border-radius: var(--radius-15);
+    width: 60%;
   }
 
   /* feature */

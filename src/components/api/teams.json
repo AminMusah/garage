@@ -1,0 +1,22 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Jack Daniels",
+      "position": "CEO",
+      "image": "/assets/images/pexels-photo-5648401.webp"
+    },
+    {
+      "id": 2,
+      "name": "Mark Jones",
+      "position": "CTO",
+      "image": "/assets/images/pexels-photo-7869689.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Philip Allen",
+      "position": "Marketing Lead",
+      "image": "/assets/images/pexels-photo-5648401.webp"
+    }
+  ]
+}
