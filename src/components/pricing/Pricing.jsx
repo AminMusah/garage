@@ -8,8 +8,8 @@ function Pricing() {
           Pricing <span className="has-before"></span>
         </h2>
         <div className=" pricing">
-          <section class="pricecol">
-            <div class="icon">
+          <section className="pricecol">
+            <div className="icon">
               <BankLineIcon />
             </div>
             <h3>
@@ -22,12 +22,12 @@ function Pricing() {
               <li>Donec sodales sagittis</li>
             </ul>
 
-            <button class="btn btn-primary price-btn">
+            <button className="btn btn-primary price-btn">
               <span>Learn more</span>
             </button>
           </section>
-          <section class="pricecol">
-            <div class="icon">
+          <section className="pricecol">
+            <div className="icon">
               <BankLineIcon />
             </div>
             <h3>
@@ -40,12 +40,12 @@ function Pricing() {
               <li>Donec sodales sagittis</li>
             </ul>
 
-            <button class="btn btn-primary price-btn">
+            <button className="btn btn-primary price-btn">
               <span>Learn more</span>
             </button>
           </section>
-          <section class="pricecol">
-            <div class="icon">
+          <section className="pricecol">
+            <div className="icon">
               <BankLineIcon />
             </div>
             <h3>
@@ -58,7 +58,7 @@ function Pricing() {
               <li>Donec sodales sagittis</li>
             </ul>
 
-            <button class="btn btn-primary price-btn">
+            <button className="btn btn-primary price-btn">
               <span>Learn more</span>
             </button>
           </section>

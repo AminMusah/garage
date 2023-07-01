@@ -5,8 +5,8 @@ function Hero() {
         <div className="container">
           <div className="hero-content">
             <h1 className="h1 hero-title">
-              The best <span class="has-before">Auto parts</span> supplier and
-              retailers.
+              The best <span className="has-before">Auto parts</span> supplier
+              and retailers.
             </h1>
 
             <p className="hero-text">
@@ -28,7 +28,7 @@ function Hero() {
               width="794"
               height="637"
               alt="hero banner"
-              class="w-100"
+              className="w-100"
             />
           </figure>
         </div>

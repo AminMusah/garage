@@ -16,9 +16,9 @@ function Team() {
   return (
     <div>
       <section id="team">
-        <div class="stellar-container">
+        <div className="stellar-container">
           <h2>Our Team</h2>
-          <div class="stelar-influencers">
+          <div className="stelar-influencers">
             {team.map((teamMember) => (
               <Card
                 key={teamMember.id}
