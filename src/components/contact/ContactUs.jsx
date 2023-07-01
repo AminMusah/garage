@@ -46,7 +46,7 @@ const ContactUs = () => {
               <option value="Enquiry">Enquiry</option>
             </select>
           </div>
-          <div class="input-wrapper">
+          <div className="input-wrapper">
             <textarea
               id="message"
               name="Message"

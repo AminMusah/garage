@@ -10,7 +10,7 @@ const Card = ({ name, image, message }) => {
           <p className="author-role"></p>
         </div>
       </div>
-      <p class="card-body">{message}</p>
+      <p className="card-body">{message}</p>
     </div>
   );
 };

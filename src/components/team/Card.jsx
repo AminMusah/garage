@@ -2,10 +2,10 @@ import React from "react";
 
 const Card = ({ name, position, image }) => {
   return (
-    <div class="influencer">
-      <img src={image} alt={position} class="influencer-photo" />
-      <p class="influencer-name">{name}</p>
-      <p class="influencer-name">{position}</p>
+    <div className="influencer">
+      <img src={image} alt={position} className="influencer-photo" />
+      <p className="influencer-name">{name}</p>
+      <p className="influencer-name">{position}</p>
     </div>
   );
 };

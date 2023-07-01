@@ -14,8 +14,8 @@ const Testimonials = () => {
     } catch (error) {}
   }, []);
   return (
-    <div class="testimonial-section" id="testimonials">
-      <div class="top-row">
+    <div className="testimonial-section" id="testimonials">
+      <div className="top-row">
         <h2 className="h2 section-title text-center">
           What our client say about us
         </h2>
